@@ -1,0 +1,10 @@
+{
+  "amd": {},
+  "volo": {
+    "baseUrl": "www/lib",
+    "dependencies": {
+      "mdast": "github:wooorm/mdast/1.0.0",
+      "text": "github:requirejs/text/2.0.14"
+    }
+  }
+}
